@@ -20,12 +20,7 @@ Welcome to the **ultimate Insta360 promotion page**! Looking to save money on th
 
 ### 🔹 Insta360 X5
 
-[![Insta360 X5](images/x5.jpg)](https://www.insta360.com/sal/x5?utm_term=INR7TKB)
-
-
-```md
 [![Insta360 X5](images/x5.png)](https://www.insta360.com/sal/x5?utm_term=INR7TKB)
-```
 
 * **Flagship 360° camera** with stunning 8K video
 * AI-powered stabilization and editing
@@ -36,11 +31,8 @@ Welcome to the **ultimate Insta360 promotion page**! Looking to save money on th
 
 ### 🔹 Insta360 GO 3S
 
-[![Insta360 GO 3S](images/go-3s.jpg)](https://www.insta360.com/sal/go-3s?utm_term=INR7TKB)
-
-```md
 [![Insta360 GO 3S](images/go-3s.png)](https://www.insta360.com/sal/go-3s?utm_term=INR7TKB)
-```
+
 
 * **Ultra-light action camera** – just 35g!
 * Magnetic mount and POV recording
@@ -51,11 +43,7 @@ Welcome to the **ultimate Insta360 promotion page**! Looking to save money on th
 
 ### 🔹 Insta360 Flow (AI Gimbal)
 
-[![Insta360 Flow](images/flow.jpg)](https://www.insta360.com/sal/flow?utm_term=INR7TKB)
-
-```md
 [![Insta360 Flow](images/flow.png)](https://www.insta360.com/sal/flow?utm_term=INR7TKB)
-```
 
 * **AI-tracking smartphone gimbal**
 * Auto-tracking, tripod mode, built-in selfie stick
@@ -66,11 +54,7 @@ Welcome to the **ultimate Insta360 promotion page**! Looking to save money on th
 
 ### 🔹 Insta360 Ace Pro 2
 
-[![Insta360 Ace Pro 2](images/ace-pro-2.jpg)](https://www.insta360.com/sal/ace-pro-2?utm_term=INR7TKB)
-
-```md
 [![Insta360 Ace Pro 2](images/ace-pro-2.png)](https://www.insta360.com/sal/ace-pro-2?utm_term=INR7TKB)
-```
 
 * **Flagship 4K wide-lens action camera**
 * Co-engineered with Leica for stunning optics
@@ -81,11 +65,7 @@ Welcome to the **ultimate Insta360 promotion page**! Looking to save money on th
 
 ### 🔹 Insta360 Titan (Professional VR Camera)
 
-[![Insta360 Titan](images/titan.jpg)](https://www.insta360.com/sal/titan?utm_term=INR7TKB)
-
-```md
 [![Insta360 Titan](images/titan.png)](https://www.insta360.com/sal/titan?utm_term=INR7TKB)
-```
 
 * **8-lens VR camera with Micro Four Thirds sensors**
 * Shoots in 11K immersive 360° resolution
